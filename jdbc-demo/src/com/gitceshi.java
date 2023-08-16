@@ -11,5 +11,6 @@ package com;
 public class gitceshi {
     public static void main(String[] args) {
         System.out.println("我是测试的");
+        System.out.println("甲方加要求了");
     }
 }
